@@ -1,0 +1,1832 @@
+{
+  "kkiosk:2050000655500": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Drum Original Halfzware Shag 40g",
+    "price_cents": 890,
+    "site": "kkiosk",
+    "sku": "2050000655500",
+    "url": "https://tabak.kkiosk.ch/products/drum-original-halfzware-shag-40-g"
+  },
+  "kkiosk:2050002470569": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Bright Spearmint 6mg",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050002470569",
+    "url": "https://tabak.kkiosk.ch/products/velo-bright-spearmint-6mg"
+  },
+  "kkiosk:2050002470590": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Crispy Peppermint 10mg",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050002470590",
+    "url": "https://tabak.kkiosk.ch/products/velo-crispy-peppermint-10mg"
+  },
+  "kkiosk:2050002482029": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Batton Full Flavor Volumen Tabak 90g",
+    "price_cents": 1600,
+    "site": "kkiosk",
+    "sku": "2050002482029",
+    "url": "https://tabak.kkiosk.ch/products/batton-full-flavor-volumen-tabak-90-g"
+  },
+  "kkiosk:2050002482043": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Batton Fine Flavor Volumen Tabak 90g",
+    "price_cents": 1600,
+    "site": "kkiosk",
+    "sku": "2050002482043",
+    "url": "https://tabak.kkiosk.ch/products/batton-fine-flavor-volumen-tabak-90-g"
+  },
+  "kkiosk:2050002482074": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Batton Free Volumen Tabak 90g",
+    "price_cents": 1600,
+    "site": "kkiosk",
+    "sku": "2050002482074",
+    "url": "https://tabak.kkiosk.ch/products/batton-free-volumen-tabak-90-g"
+  },
+  "kkiosk:2050002753884": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Freezing Peppermint 10.9mg",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050002753884",
+    "url": "https://tabak.kkiosk.ch/products/velo-freezing-peppermint-10-9mg"
+  },
+  "kkiosk:2050002817555": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Adalya Tabak Lady Killer 50g",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050002817555",
+    "url": "https://tabak.kkiosk.ch/products/adalya-tabak-lady-killer-50-g"
+  },
+  "kkiosk:2050002895744": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Icy Berries 10.9mg",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050002895744",
+    "url": "https://tabak.kkiosk.ch/products/velo-icy-berries-10-9mg"
+  },
+  "kkiosk:2050003241649": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Icy Berries Mini 6mg",
+    "price_cents": 800,
+    "site": "kkiosk",
+    "sku": "2050003241649",
+    "url": "https://tabak.kkiosk.ch/products/velo-icy-berries-mini-6mg"
+  },
+  "kkiosk:2050003241670": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Bright Spearmint Mini 4mg",
+    "price_cents": 800,
+    "site": "kkiosk",
+    "sku": "2050003241670",
+    "url": "https://tabak.kkiosk.ch/products/velo-bright-spearmint-mini-4mg"
+  },
+  "kkiosk:2050003272209": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Zesty Elderflower 10.9mg",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050003272209",
+    "url": "https://tabak.kkiosk.ch/products/velo-zesty-elderflower-10-9mg"
+  },
+  "kkiosk:2050003284240": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Edel Cold",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003284240",
+    "url": "https://tabak.kkiosk.ch/products/edel-cold"
+  },
+  "kkiosk:2050003284288": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Edel Citrus",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003284288",
+    "url": "https://tabak.kkiosk.ch/products/edel-citrus"
+  },
+  "kkiosk:2050003284318": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Edel Melon",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003284318",
+    "url": "https://tabak.kkiosk.ch/products/edel-melon"
+  },
+  "kkiosk:2050003392297": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Bright Spearmint Mini 7.9mg",
+    "price_cents": 800,
+    "site": "kkiosk",
+    "sku": "2050003392297",
+    "url": "https://tabak.kkiosk.ch/products/velo-bright-spearmint-mini-7-9mg"
+  },
+  "kkiosk:2050003522021": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Escort Silver Fine Tin 100g",
+    "price_cents": 1880,
+    "site": "kkiosk",
+    "sku": "2050003522021",
+    "url": "https://tabak.kkiosk.ch/products/escort-silver-fine-tin-100g"
+  },
+  "kkiosk:2050003523424": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Burrus Blau 40g",
+    "price_cents": 570,
+    "site": "kkiosk",
+    "sku": "2050003523424",
+    "url": "https://tabak.kkiosk.ch/products/burrus-blau-40-g"
+  },
+  "kkiosk:2050003523455": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Borkum Riff Original Beutel 50g",
+    "price_cents": 1030,
+    "site": "kkiosk",
+    "sku": "2050003523455",
+    "url": "https://tabak.kkiosk.ch/products/borkum-riff-original-beutel-50-g"
+  },
+  "kkiosk:2050003523486": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Borkum Riff Whiskey Beutel 50g",
+    "price_cents": 1030,
+    "site": "kkiosk",
+    "sku": "2050003523486",
+    "url": "https://tabak.kkiosk.ch/products/borkum-riff-whiskey-beutel-50-g"
+  },
+  "kkiosk:2050003552509": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Edel Mint",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003552509",
+    "url": "https://tabak.kkiosk.ch/products/edel-mint"
+  },
+  "kkiosk:2050003552639": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Edel Onyx",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003552639",
+    "url": "https://tabak.kkiosk.ch/products/edel-onyx"
+  },
+  "kkiosk:2050003609616": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Odens Cold Extreme White Slim 20g",
+    "price_cents": 980,
+    "site": "kkiosk",
+    "sku": "2050003609616",
+    "url": "https://tabak.kkiosk.ch/products/odens-cold-extreme-white-slim-20g"
+  },
+  "kkiosk:2050003609661": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Odens Double Mint Extreme White 20g",
+    "price_cents": 980,
+    "site": "kkiosk",
+    "sku": "2050003609661",
+    "url": "https://tabak.kkiosk.ch/products/odens-double-mint-extreme-white-20g"
+  },
+  "kkiosk:2050003610025": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Odens Cold Extreme White Dry Slim 10g",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003610025",
+    "url": "https://tabak.kkiosk.ch/products/odens-cold-extreme-white-dry-slim-10g"
+  },
+  "kkiosk:2050003610063": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Odens Cold Extreme White Dry 10g",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003610063",
+    "url": "https://tabak.kkiosk.ch/products/odens-cold-extreme-white-dry-10g"
+  },
+  "kkiosk:2050003610100": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Siberia Red White Dry Mini 9g",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003610100",
+    "url": "https://tabak.kkiosk.ch/products/siberia-red-white-dry-mini-9g"
+  },
+  "kkiosk:2050003610186": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Siberia -80 Degrees Red White Dry 13g",
+    "price_cents": 890,
+    "site": "kkiosk",
+    "sku": "2050003610186",
+    "url": "https://tabak.kkiosk.ch/products/siberia-80c-red-white-dry-13g"
+  },
+  "kkiosk:2050003650441": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Peppermint Storm 10.9mg",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050003650441",
+    "url": "https://tabak.kkiosk.ch/products/velo-peppermint-storm-10-9mg"
+  },
+  "kkiosk:2050003650472": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Tropical Mango 10.9mg",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050003650472",
+    "url": "https://tabak.kkiosk.ch/products/velo-tropical-mango-10-9mg"
+  },
+  "kkiosk:2050003688956": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Zyn Cool Mint X-Strong",
+    "price_cents": 890,
+    "site": "kkiosk",
+    "sku": "2050003688956",
+    "url": "https://tabak.kkiosk.ch/products/zyn-cool-mint-slim-x-strong-11mg"
+  },
+  "kkiosk:2050003688987": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Zyn Icy Mint X-Strong",
+    "price_cents": 890,
+    "site": "kkiosk",
+    "sku": "2050003688987",
+    "url": "https://tabak.kkiosk.ch/products/zyn-icy-mint-slim-x-strong-11mg"
+  },
+  "kkiosk:2050003689014": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Zyn Spearmint Strong",
+    "price_cents": 890,
+    "site": "kkiosk",
+    "sku": "2050003689014",
+    "url": "https://tabak.kkiosk.ch/products/zyn-spearmint-slim-strong-9mg"
+  },
+  "kkiosk:2050003689045": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Zyn Chili Guava X-Strong",
+    "price_cents": 890,
+    "site": "kkiosk",
+    "sku": "2050003689045",
+    "url": "https://tabak.kkiosk.ch/products/zyn-chili-guava-slim-x-strong-11mg"
+  },
+  "kkiosk:2050003689076": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Zyn Icy Blackcurrant X-Strong",
+    "price_cents": 890,
+    "site": "kkiosk",
+    "sku": "2050003689076",
+    "url": "https://tabak.kkiosk.ch/products/zyn-icy-blackcurrant-slim-x-strong-11mg"
+  },
+  "kkiosk:2050003703550": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Vale Iced Mint Tobacco",
+    "price_cents": 590,
+    "site": "kkiosk",
+    "sku": "2050003703550",
+    "url": "https://tabak.kkiosk.ch/products/vale-iced-mint-tobacco"
+  },
+  "kkiosk:2050003703581": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Vale Freezing Mint",
+    "price_cents": 590,
+    "site": "kkiosk",
+    "sku": "2050003703581",
+    "url": "https://tabak.kkiosk.ch/products/vale-freezing-mint"
+  },
+  "kkiosk:2050003703611": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Vale Frosted Berry",
+    "price_cents": 590,
+    "site": "kkiosk",
+    "sku": "2050003703611",
+    "url": "https://tabak.kkiosk.ch/products/vale-frosted-berry"
+  },
+  "kkiosk:2050003742610": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Amphora Full Aroma Rot 50g",
+    "price_cents": 1000,
+    "site": "kkiosk",
+    "sku": "2050003742610",
+    "url": "https://tabak.kkiosk.ch/products/amphora-full-aroma-rot-50-g"
+  },
+  "kkiosk:2050003742702": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "MacBaren Mixture 50g",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "2050003742702",
+    "url": "https://tabak.kkiosk.ch/products/macbaren-mixture-50g"
+  },
+  "kkiosk:2050003763905": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Winston Original Red Ryo 25g",
+    "price_cents": 660,
+    "site": "kkiosk",
+    "sku": "2050003763905",
+    "url": "https://tabak.kkiosk.ch/products/winston-original-red-ryo-25g"
+  },
+  "kkiosk:2050003764155": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Camel Blue Ryo 25g",
+    "price_cents": 670,
+    "site": "kkiosk",
+    "sku": "2050003764155",
+    "url": "https://tabak.kkiosk.ch/products/camel-blue-ryo-25g"
+  },
+  "kkiosk:2050003765831": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Velo Bright Spearmint 10mg",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050003765831",
+    "url": "https://tabak.kkiosk.ch/products/velo-bright-spearmint-10mg"
+  },
+  "kkiosk:2050003765862": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Crispy Peppermint Mini 6mg",
+    "price_cents": 800,
+    "site": "kkiosk",
+    "sku": "2050003765862",
+    "url": "https://tabak.kkiosk.ch/products/velo-crispy-peppermint-mini-6mg"
+  },
+  "kkiosk:2050003786508": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Watermelon Ice Mini 6mg",
+    "price_cents": 800,
+    "site": "kkiosk",
+    "sku": "2050003786508",
+    "url": "https://tabak.kkiosk.ch/products/velo-watermelon-mini-18-6mg"
+  },
+  "kkiosk:2050003787437": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Strawberry Ice Mini 6mg",
+    "price_cents": 800,
+    "site": "kkiosk",
+    "sku": "2050003787437",
+    "url": "https://tabak.kkiosk.ch/products/velo-strawberry-ice-mini-18-6mg"
+  },
+  "kkiosk:2050003787468": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Watermelon Ice 10.9mg",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050003787468",
+    "url": "https://tabak.kkiosk.ch/products/velo-watermelon-24-10-9mg"
+  },
+  "kkiosk:2050003787536": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Strawberry Ice 10.9mg",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050003787536",
+    "url": "https://tabak.kkiosk.ch/products/velo-strawberry-24-10-9mg"
+  },
+  "kkiosk:2050003795296": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Edel Berry Ice",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003795296",
+    "url": "https://tabak.kkiosk.ch/products/edel-berry-ice"
+  },
+  "kkiosk:2050003798730": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Makla Africaine 23g",
+    "price_cents": 750,
+    "site": "kkiosk",
+    "sku": "2050003798730",
+    "url": "https://tabak.kkiosk.ch/products/makla-africaine-23g"
+  },
+  "kkiosk:2050003806657": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Red Bull Special Blend Myo Tin 120g",
+    "price_cents": 2340,
+    "site": "kkiosk",
+    "sku": "2050003806657",
+    "url": "https://tabak.kkiosk.ch/products/red-bull-special-blend-myo-tin-120-g"
+  },
+  "kkiosk:2050003818339": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Velo Lime Flame 10mg",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050003818339",
+    "url": "https://tabak.kkiosk.ch/products/velo-lime-flame-24-10mg"
+  },
+  "kkiosk:2050003818360": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Velo Tangy Lime 10mg",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050003818360",
+    "url": "https://tabak.kkiosk.ch/products/velo-tangy-lime-24-10mg"
+  },
+  "kkiosk:2050003825580": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Velo Mango Flame 10mg",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050003825580",
+    "url": "https://tabak.kkiosk.ch/products/velo-mango-flame-24-10mg"
+  },
+  "kkiosk:2050003844338": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Zyn Spearmint Medium",
+    "price_cents": 890,
+    "site": "kkiosk",
+    "sku": "2050003844338",
+    "url": "https://tabak.kkiosk.ch/products/zyn-spearmint-medium-6mg"
+  },
+  "kkiosk:2050003844369": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Zyn Mini Cool Mint 6mg",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003844369",
+    "url": "https://tabak.kkiosk.ch/products/zyn-cool-mint-mini-strong-6mg"
+  },
+  "kkiosk:2050003844390": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Zyn Mini Black Cherry 6mg",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003844390",
+    "url": "https://tabak.kkiosk.ch/products/zyn-black-cherry-mini-strong-6mg"
+  },
+  "kkiosk:2050003844529": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Zyn Mini Coffee 6mg",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003844529",
+    "url": "https://tabak.kkiosk.ch/products/zyn-coffee-mini-strong-6mg"
+  },
+  "kkiosk:2050003844550": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Zyn Mini Cool Mint 3mg",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003844550",
+    "url": "https://tabak.kkiosk.ch/products/zyn-cool-mint-mini-medium-3mg"
+  },
+  "kkiosk:2050003844581": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Zyn Mini Black Cherry 3mg",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003844581",
+    "url": "https://tabak.kkiosk.ch/products/zyn-black-cherry-mini-medium-3mg"
+  },
+  "kkiosk:2050003844611": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Zyn Mini Coffee 3mg",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003844611",
+    "url": "https://tabak.kkiosk.ch/products/zyn-coffee-mini-medium-3mg"
+  },
+  "kkiosk:2050003849838": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Minty Lemon Mini 4mg",
+    "price_cents": 800,
+    "site": "kkiosk",
+    "sku": "2050003849838",
+    "url": "https://tabak.kkiosk.ch/products/velo-minty-lemon-18-4mg"
+  },
+  "kkiosk:2050003849869": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Velo Minty Lemon 8mg",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050003849869",
+    "url": "https://tabak.kkiosk.ch/products/velo-minty-lemon-24-8mg"
+  },
+  "kkiosk:2050003857949": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Fleur Du Pays No 1 Myo 155g",
+    "price_cents": 3690,
+    "site": "kkiosk",
+    "sku": "2050003857949",
+    "url": "https://tabak.kkiosk.ch/products/fleur-du-pays-no-1-myo-155g"
+  },
+  "kkiosk:2050003857994": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Winston Blue Hvt Stand-up Pouch Bag 145g",
+    "price_cents": 4290,
+    "site": "kkiosk",
+    "sku": "2050003857994",
+    "url": "https://tabak.kkiosk.ch/products/winston-blue-hvt-stand-up-pouch-bag-145g"
+  },
+  "kkiosk:2050003858113": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Winston Volume Red Hvt Myo 85g",
+    "price_cents": 2560,
+    "site": "kkiosk",
+    "sku": "2050003858113",
+    "url": "https://tabak.kkiosk.ch/products/winston-volume-red-hvt-myo-85g"
+  },
+  "kkiosk:2050003858175": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Winston Volume Blue Hvt Myo 85g",
+    "price_cents": 2560,
+    "site": "kkiosk",
+    "sku": "2050003858175",
+    "url": "https://tabak.kkiosk.ch/products/winston-volume-blue-hvt-myo-85g"
+  },
+  "kkiosk:2050003859653": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Drum Bright Blue 40g",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050003859653",
+    "url": "https://tabak.kkiosk.ch/products/drum-bright-blue-40-g"
+  },
+  "kkiosk:2050003859684": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Golden Virginia Ryo 40g",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050003859684",
+    "url": "https://tabak.kkiosk.ch/products/golden-virginia-ryo-40-g"
+  },
+  "kkiosk:2050003859912": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Lucky Strike Blue MYO 87g",
+    "price_cents": 2190,
+    "site": "kkiosk",
+    "sku": "2050003859912",
+    "url": "https://tabak.kkiosk.ch/products/lucky-strike-blue-myo-87g"
+  },
+  "kkiosk:2050003863940": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Sämi Fein 80g",
+    "price_cents": 1100,
+    "site": "kkiosk",
+    "sku": "2050003863940",
+    "url": "https://tabak.kkiosk.ch/products/sami-fein-80-g"
+  },
+  "kkiosk:2050003863971": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Tee Tabak Rot 80g",
+    "price_cents": 1100,
+    "site": "kkiosk",
+    "sku": "2050003863971",
+    "url": "https://tabak.kkiosk.ch/products/tee-tabak-rot-80-g"
+  },
+  "kkiosk:2050003865494": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Old Holborn Yellow Ryo 30g",
+    "price_cents": 860,
+    "site": "kkiosk",
+    "sku": "2050003865494",
+    "url": "https://tabak.kkiosk.ch/products/old-holborn-yellow-ryo-30-g"
+  },
+  "kkiosk:2050003865722": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Winston Original Blue RYO 25g",
+    "price_cents": 710,
+    "site": "kkiosk",
+    "sku": "2050003865722",
+    "url": "https://tabak.kkiosk.ch/products/winston-original-blue-ryo-25g"
+  },
+  "kkiosk:2050003865784": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Winston Blue Myo 70g",
+    "price_cents": 1950,
+    "site": "kkiosk",
+    "sku": "2050003865784",
+    "url": "https://tabak.kkiosk.ch/products/winston-blue-myo-70-g"
+  },
+  "kkiosk:2050003865982": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Winston Classic HVT 230g",
+    "price_cents": 5590,
+    "site": "kkiosk",
+    "sku": "2050003865982",
+    "url": "https://tabak.kkiosk.ch/products/winston-classic-hvt-230-g"
+  },
+  "kkiosk:2050003866033": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Camel Yellow Ryo 25g",
+    "price_cents": 730,
+    "site": "kkiosk",
+    "sku": "2050003866033",
+    "url": "https://tabak.kkiosk.ch/products/camel-yellow-ryo-25-g"
+  },
+  "kkiosk:2050003866064": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Camel Blue HVT 70g",
+    "price_cents": 2290,
+    "site": "kkiosk",
+    "sku": "2050003866064",
+    "url": "https://tabak.kkiosk.ch/products/camel-blue-hvt-70-g"
+  },
+  "kkiosk:2050003866088": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Camel Yellow Hvt Myo Bucket 230g",
+    "price_cents": 5690,
+    "site": "kkiosk",
+    "sku": "2050003866088",
+    "url": "https://tabak.kkiosk.ch/products/camel-yellow-hvt-myo-bucket-230g"
+  },
+  "kkiosk:2050003866101": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Fleur Du Pays No. 1 Beutel 25g",
+    "price_cents": 640,
+    "site": "kkiosk",
+    "sku": "2050003866101",
+    "url": "https://tabak.kkiosk.ch/products/fleur-du-pays-no-1-beutel-25-g"
+  },
+  "kkiosk:2050003866170": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "American Spirit Natural Blue Ryo 25g",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003866170",
+    "url": "https://tabak.kkiosk.ch/products/american-spirit-natural-blue-ryo-25-g"
+  },
+  "kkiosk:2050003866200": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "American Spirit Natural Ryo Yellow 25g",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003866200",
+    "url": "https://tabak.kkiosk.ch/products/american-spirit-natural-ryo-yellow-25-g"
+  },
+  "kkiosk:2050003866330": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "American Spirit Natural Blue Tin 70g",
+    "price_cents": 2290,
+    "site": "kkiosk",
+    "sku": "2050003866330",
+    "url": "https://tabak.kkiosk.ch/products/american-spirit-natural-blue-tin-70-g"
+  },
+  "kkiosk:2050003867412": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Escort Menthol Fine Tin 100g",
+    "price_cents": 2000,
+    "site": "kkiosk",
+    "sku": "2050003867412",
+    "url": "https://tabak.kkiosk.ch/products/escort-menthol-fine-tin-100-g"
+  },
+  "kkiosk:2050003867436": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Mon Terroir Blond Pouch Ryo 30g",
+    "price_cents": 530,
+    "site": "kkiosk",
+    "sku": "2050003867436",
+    "url": "https://tabak.kkiosk.ch/products/mon-terroir-blond-pouch-ryo-30g"
+  },
+  "kkiosk:2050003867832": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Maya Original Ryo 25g",
+    "price_cents": 540,
+    "site": "kkiosk",
+    "sku": "2050003867832",
+    "url": "https://tabak.kkiosk.ch/products/maya-original-ryo-25g"
+  },
+  "kkiosk:2050003867863": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Maya Blue Ryo 25g",
+    "price_cents": 540,
+    "site": "kkiosk",
+    "sku": "2050003867863",
+    "url": "https://tabak.kkiosk.ch/products/maya-blue-ryo-25g"
+  },
+  "kkiosk:2050003867894": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Elixyr Volume+ Myo 87g",
+    "price_cents": 1789,
+    "site": "kkiosk",
+    "sku": "2050003867894",
+    "url": "https://tabak.kkiosk.ch/products/elixyr-volume-87g-myo"
+  },
+  "kkiosk:2050003868310": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Elixyr Original Red Myo 165g",
+    "price_cents": 3180,
+    "site": "kkiosk",
+    "sku": "2050003868310",
+    "url": "https://tabak.kkiosk.ch/products/elixyr-original-red-165g-myo"
+  },
+  "kkiosk:2050003868334": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Elixyr Original Blue MYO 165g",
+    "price_cents": 3180,
+    "site": "kkiosk",
+    "sku": "2050003868334",
+    "url": "https://tabak.kkiosk.ch/products/elixyr-original-blue-myo-165g"
+  },
+  "kkiosk:2050003868358": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Elixyr Volume Maxx 145g",
+    "price_cents": 2980,
+    "site": "kkiosk",
+    "sku": "2050003868358",
+    "url": "https://tabak.kkiosk.ch/products/elixyr-volume-maxx-145g"
+  },
+  "kkiosk:2050003869959": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Chesterfield Original Ryo 25g",
+    "price_cents": 660,
+    "site": "kkiosk",
+    "sku": "2050003869959",
+    "url": "https://tabak.kkiosk.ch/products/chesterfield-original-ryo-25g"
+  },
+  "kkiosk:2050003869980": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Marlboro Gold Ryo 25g",
+    "price_cents": 680,
+    "site": "kkiosk",
+    "sku": "2050003869980",
+    "url": "https://tabak.kkiosk.ch/products/marlboro-gold-ryo-25g"
+  },
+  "kkiosk:2050003870214": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Marlboro Red Ryo 25g",
+    "price_cents": 680,
+    "site": "kkiosk",
+    "sku": "2050003870214",
+    "url": "https://tabak.kkiosk.ch/products/marlboro-red-ryo-25g"
+  },
+  "kkiosk:2050003870245": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Marlboro Red Fine Cut Tin 70g",
+    "price_cents": 1939,
+    "site": "kkiosk",
+    "sku": "2050003870245",
+    "url": "https://tabak.kkiosk.ch/products/marlboro-red-fine-cut-tin-70-g"
+  },
+  "kkiosk:2050003870269": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Marlboro Gold Fine Cut Tin 70g",
+    "price_cents": 1939,
+    "site": "kkiosk",
+    "sku": "2050003870269",
+    "url": "https://tabak.kkiosk.ch/products/marlboro-gold-fine-cut-tin-70-g"
+  },
+  "kkiosk:2050003870283": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Chesterfield Unplugged Naked Leaf 25g",
+    "price_cents": 660,
+    "site": "kkiosk",
+    "sku": "2050003870283",
+    "url": "https://tabak.kkiosk.ch/products/chesterfield-unplugged-naked-leaf-25-g"
+  },
+  "kkiosk:2050003870313": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Chesterfield Myo Tin 90g",
+    "price_cents": 2100,
+    "site": "kkiosk",
+    "sku": "2050003870313",
+    "url": "https://tabak.kkiosk.ch/products/chesterfield-myo-tin-90-g"
+  },
+  "kkiosk:2050003873932": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Siberia -80 Degrees Red White Dry Slim 13g",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050003873932",
+    "url": "https://tabak.kkiosk.ch/products/siberia-80c-red-white-dry-slim-13g"
+  },
+  "kkiosk:2050003875059": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Pueblo Classic Ryo Tobacco 25g",
+    "price_cents": 750,
+    "site": "kkiosk",
+    "sku": "2050003875059",
+    "url": "https://tabak.kkiosk.ch/products/pueblo-classic-ryo-tobacco-25-g"
+  },
+  "kkiosk:2050003875097": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Pueblo Blue Ryo Tobacco 25g",
+    "price_cents": 750,
+    "site": "kkiosk",
+    "sku": "2050003875097",
+    "url": "https://tabak.kkiosk.ch/products/pueblo-blue-ryo-tobacco-25-g"
+  },
+  "kkiosk:2050003876155": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Brookfield American Blend Myo Tin 120g",
+    "price_cents": 2590,
+    "site": "kkiosk",
+    "sku": "2050003876155",
+    "url": "https://tabak.kkiosk.ch/products/brookfield-american-blend-myo-tin-120-g"
+  },
+  "kkiosk:2050003876179": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Brookfield Gold Blend Myo Tin 120g",
+    "price_cents": 2590,
+    "site": "kkiosk",
+    "sku": "2050003876179",
+    "url": "https://tabak.kkiosk.ch/products/brookfield-gold-blend-myo-tin-120-g"
+  },
+  "kkiosk:2050003876193": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Brookfield American Blend Myo Tin 250g",
+    "price_cents": 4950,
+    "site": "kkiosk",
+    "sku": "2050003876193",
+    "url": "https://tabak.kkiosk.ch/products/brookfield-american-blend-myo-tin-250-g"
+  },
+  "kkiosk:2050003876209": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Brookfield Gold Blend Myo Tin 250g",
+    "price_cents": 4950,
+    "site": "kkiosk",
+    "sku": "2050003876209",
+    "url": "https://tabak.kkiosk.ch/products/brookfield-gold-blend-myo-tin-250g"
+  },
+  "kkiosk:2050003876216": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Black Hawk High Volume Myo 95g",
+    "price_cents": 2090,
+    "site": "kkiosk",
+    "sku": "2050003876216",
+    "url": "https://tabak.kkiosk.ch/products/black-hawk-high-volume-myo-95-g"
+  },
+  "kkiosk:2050003876230": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Black Hawk Silver Volume Myo Tin 95g",
+    "price_cents": 2090,
+    "site": "kkiosk",
+    "sku": "2050003876230",
+    "url": "https://tabak.kkiosk.ch/products/black-hawk-silver-volume-myo-tin-95-g"
+  },
+  "kkiosk:2050003876254": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Gout Du Monde Ryo 25g",
+    "price_cents": 520,
+    "site": "kkiosk",
+    "sku": "2050003876254",
+    "url": "https://tabak.kkiosk.ch/products/gout-du-monde-ryo-25g"
+  },
+  "kkiosk:2050003880817": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Heimat Tabak 30g",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003880817",
+    "url": "https://tabak.kkiosk.ch/products/heimat-tabak-30-g"
+  },
+  "kkiosk:2050003885447": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Zyn Mini Spearmint 6mg",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003885447",
+    "url": "https://tabak.kkiosk.ch/products/zyn-spearmint-mini-6mg"
+  },
+  "kkiosk:2050003885478": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Zyn Mini Spearmint 3mg",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003885478",
+    "url": "https://tabak.kkiosk.ch/products/zyn-spearmint-mini-3mg"
+  },
+  "kkiosk:2050003885508": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Zyn Mini Spearmint X-Low 1.5mg",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003885508",
+    "url": "https://tabak.kkiosk.ch/products/zyn-spearmint-mini-1-5mg"
+  },
+  "kkiosk:2050003886536": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Zyn Mini Black Cherry X-Low 1.5mg",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003886536",
+    "url": "https://tabak.kkiosk.ch/products/zyn-black-cherry-mini-1-5mg"
+  },
+  "kkiosk:2050003886949": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Freezing Peppermint 17mg",
+    "price_cents": 1090,
+    "site": "kkiosk",
+    "sku": "2050003886949",
+    "url": "https://tabak.kkiosk.ch/products/velo-freezing-peppermint-17mg"
+  },
+  "kkiosk:2050003887007": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Eucalyptus Storm 11mg",
+    "price_cents": 1090,
+    "site": "kkiosk",
+    "sku": "2050003887007",
+    "url": "https://tabak.kkiosk.ch/products/velo-eucalyptus-storm-11mg"
+  },
+  "kkiosk:2050003887656": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Peach Ice Mini 4mg",
+    "price_cents": 800,
+    "site": "kkiosk",
+    "sku": "2050003887656",
+    "url": "https://tabak.kkiosk.ch/products/velo-peach-ice-4mg"
+  },
+  "kkiosk:2050003887687": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "VELO Peach Ice 8mg",
+    "price_cents": 990,
+    "site": "kkiosk",
+    "sku": "2050003887687",
+    "url": "https://tabak.kkiosk.ch/products/velo-peach-ice-23-8mg"
+  },
+  "kkiosk:2050003904421": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Parisienne Authentique Ohne Pouch 25g",
+    "price_cents": 720,
+    "site": "kkiosk",
+    "sku": "2050003904421",
+    "url": "https://tabak.kkiosk.ch/products/parisienne-authentique-ohne-pouch-25-g"
+  },
+  "kkiosk:2050003904452": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Parisienne Authentique Jaune 25g",
+    "price_cents": 720,
+    "site": "kkiosk",
+    "sku": "2050003904452",
+    "url": "https://tabak.kkiosk.ch/products/parisienne-authentique-jaune-25-g"
+  },
+  "kkiosk:2050003904506": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Parisienne Chez Moi Tin 87g",
+    "price_cents": 2590,
+    "site": "kkiosk",
+    "sku": "2050003904506",
+    "url": "https://tabak.kkiosk.ch/products/parisienne-chez-moi-tin-87g"
+  },
+  "kkiosk:2050003904629": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Lucky Strike Myo Bag 150g",
+    "price_cents": 3790,
+    "site": "kkiosk",
+    "sku": "2050003904629",
+    "url": "https://tabak.kkiosk.ch/products/lucky-strike-myo-bag-150g"
+  },
+  "kkiosk:2050003904643": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859076,
+    "name": "Parisienne Chez Moi Myo Bag 150g",
+    "price_cents": 4190,
+    "site": "kkiosk",
+    "sku": "2050003904643",
+    "url": "https://tabak.kkiosk.ch/products/parisienne-chez-moi-myo-bag-150g"
+  },
+  "kkiosk:2050003918039": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Elf Blueberry Rasperrry Pouches 12mg",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003918039",
+    "url": "https://tabak.kkiosk.ch/products/elf-blueberry-rasperrry-pouches-12mg"
+  },
+  "kkiosk:2050003918053": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Elf Watermelon Ice Pouches 12mg",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003918053",
+    "url": "https://tabak.kkiosk.ch/products/elf-watermelon-ice-pouches-12mg"
+  },
+  "kkiosk:2050003918077": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Elf Cool Storm Pouches 20mg",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003918077",
+    "url": "https://tabak.kkiosk.ch/products/elf-cool-storm-pouches-20mg"
+  },
+  "kkiosk:2050003918091": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Elf Max Polar Mint Pouches 20mg",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "2050003918091",
+    "url": "https://tabak.kkiosk.ch/products/elf-max-polar-mint-pouches-20mg"
+  },
+  "kkiosk:2050003919647": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Fumi Freezy Mint Extra Strong",
+    "price_cents": 890,
+    "site": "kkiosk",
+    "sku": "2050003919647",
+    "url": "https://tabak.kkiosk.ch/products/fumi-freezy-mint-extra-strong"
+  },
+  "kkiosk:2050003919678": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Fumi Minty Blueberry Strong",
+    "price_cents": 890,
+    "site": "kkiosk",
+    "sku": "2050003919678",
+    "url": "https://tabak.kkiosk.ch/products/fumi-minty-blueberry-strong"
+  },
+  "kkiosk:2050003919708": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859075,
+    "name": "Fumi Fiery Mango Strong",
+    "price_cents": 890,
+    "site": "kkiosk",
+    "sku": "2050003919708",
+    "url": "https://tabak.kkiosk.ch/products/fumi-fiery-mango-strong"
+  },
+  "kkiosk:6937643564788": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Elfbar 600 Blueberry",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6937643564788",
+    "url": "https://tabak.kkiosk.ch/products/elfbar-600-blueberry"
+  },
+  "kkiosk:6937643565105": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Elfbar 600 Apple Peach",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6937643565105",
+    "url": "https://tabak.kkiosk.ch/products/elfbar-600-apple-peach"
+  },
+  "kkiosk:6937643565129": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Elfbar 600 Blue Razz Lemonade",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6937643565129",
+    "url": "https://tabak.kkiosk.ch/products/elfbar-600-blue-razz-lemonade"
+  },
+  "kkiosk:6937643565211": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Elfbar 600 Cream Tobacco",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6937643565211",
+    "url": "https://tabak.kkiosk.ch/products/elfbar-600-cream-tobacco"
+  },
+  "kkiosk:6937643565259": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Elfbar 600 Grape",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6937643565259",
+    "url": "https://tabak.kkiosk.ch/products/elfbar-600-grape"
+  },
+  "kkiosk:6937643565327": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Elfbar 600 Menthol",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6937643565327",
+    "url": "https://tabak.kkiosk.ch/products/elfbar-600-menthol"
+  },
+  "kkiosk:6937643565334": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Elfbar 600 Peach Ice",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6937643565334",
+    "url": "https://tabak.kkiosk.ch/products/elfbar-600-peach-ice"
+  },
+  "kkiosk:6937643565365": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Elfbar 600 Pink Lemonade",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6937643565365",
+    "url": "https://tabak.kkiosk.ch/products/elfbar-600-pink-lemonade"
+  },
+  "kkiosk:6937643565396": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Elfbar 600 Strawberry Ice",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6937643565396",
+    "url": "https://tabak.kkiosk.ch/products/elfbar-600-strawberry-ice"
+  },
+  "kkiosk:6937643565440": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Elfbar 600 Watermelon",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6937643565440",
+    "url": "https://tabak.kkiosk.ch/products/elfbar-600-watermelon"
+  },
+  "kkiosk:6937643573858": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Lost Mary BM600s – Apple Watermelon",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6937643573858",
+    "url": "https://tabak.kkiosk.ch/products/lost-mary-bm600s-apple-watermelon"
+  },
+  "kkiosk:6937643573865": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Lost Mary BM600s – Banana Break",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6937643573865",
+    "url": "https://tabak.kkiosk.ch/products/lost-mary-bm600s-banana-break"
+  },
+  "kkiosk:6937643573872": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Lost Mary BM600s – Berry Apple Peach",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6937643573872",
+    "url": "https://tabak.kkiosk.ch/products/lost-mary-bm600s-berry-apple-peach"
+  },
+  "kkiosk:6937643573889": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Lost Mary BM600s – Berry Combos",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6937643573889",
+    "url": "https://tabak.kkiosk.ch/products/lost-mary-bm600s-berry-combos"
+  },
+  "kkiosk:6937643573896": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Lost Mary BM600s – Lemon Lime",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6937643573896",
+    "url": "https://tabak.kkiosk.ch/products/lost-mary-bm600s-lemon-lime"
+  },
+  "kkiosk:6937643573902": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Lost Mary BM600s – Pina Kiwi Lemonade",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6937643573902",
+    "url": "https://tabak.kkiosk.ch/products/lost-mary-bm600s-pina-kiwi-lemonade"
+  },
+  "kkiosk:6937643573919": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Lost Mary BM600s – Straw Golden Pina",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6937643573919",
+    "url": "https://tabak.kkiosk.ch/products/lost-mary-bm600s-straw-golden-pina"
+  },
+  "kkiosk:6937643573926": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Lost Mary BM600s – Strawnana Blackcurrant",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6937643573926",
+    "url": "https://tabak.kkiosk.ch/products/lost-mary-bm600s-strawnana-blackcurrant"
+  },
+  "kkiosk:6970925916653": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Crystal Lemon Lime",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6970925916653",
+    "url": "https://tabak.kkiosk.ch/products/crystal-lemon-lime"
+  },
+  "kkiosk:6970925916684": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Crystal Cherry Ice",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6970925916684",
+    "url": "https://tabak.kkiosk.ch/products/crystal-cherry-ice"
+  },
+  "kkiosk:6970925916783": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Crystal Peach Ice",
+    "price_cents": 890,
+    "site": "kkiosk",
+    "sku": "6970925916783",
+    "url": "https://tabak.kkiosk.ch/products/crystal-peach-ice"
+  },
+  "kkiosk:6970925916868": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Crystal Blueberry Raspberries",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6970925916868",
+    "url": "https://tabak.kkiosk.ch/products/crystal-blueberry-raspberries"
+  },
+  "kkiosk:6970925916882": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Crystal Menthol",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6970925916882",
+    "url": "https://tabak.kkiosk.ch/products/crystal-menthol"
+  },
+  "kkiosk:6970925916943": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Crystal Watermelon Ice",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6970925916943",
+    "url": "https://tabak.kkiosk.ch/products/crystal-watermelon-ice"
+  },
+  "kkiosk:6974123370552": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Like Me Blueberry 2ml",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "6974123370552",
+    "url": "https://tabak.kkiosk.ch/products/like-me-blueberry-2ml"
+  },
+  "kkiosk:6974123370880": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Like Me Watermelon Ice 2ml",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "6974123370880",
+    "url": "https://tabak.kkiosk.ch/products/like-me-watermelon-ice-2ml"
+  },
+  "kkiosk:6974123370903": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Like Me Peach Ice 2ml",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "6974123370903",
+    "url": "https://tabak.kkiosk.ch/products/like-me-peach-ice-2ml"
+  },
+  "kkiosk:6974123370910": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Like Me Strawberry Watermelon 2ml",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "6974123370910",
+    "url": "https://tabak.kkiosk.ch/products/like-me-strawberry-watermelon-2ml"
+  },
+  "kkiosk:6974123370996": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Like Me Double Apple 2ml",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "6974123370996",
+    "url": "https://tabak.kkiosk.ch/products/like-me-double-apple-2ml"
+  },
+  "kkiosk:6975207753223": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Elfbar 600 Cherry",
+    "price_cents": 1150,
+    "site": "kkiosk",
+    "sku": "6975207753223",
+    "url": "https://tabak.kkiosk.ch/products/elfbar-600-cherry"
+  },
+  "kkiosk:7617800002245": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Vuse Go 1000 Creamy Tobacco 20mg",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7617800002245",
+    "url": "https://tabak.kkiosk.ch/products/vuse-go-1000-creamy-tobacco-20mg"
+  },
+  "kkiosk:7617800002337": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Vuse Go 1000 Blueberry Ice 20mg",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7617800002337",
+    "url": "https://tabak.kkiosk.ch/products/vuse-go-1000-blueberry-ice-20mg"
+  },
+  "kkiosk:7617800002368": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Vuse Go 1000 Peppermint Ice 20mg",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7617800002368",
+    "url": "https://tabak.kkiosk.ch/products/vuse-go-1000-peppermint-ice-20mg"
+  },
+  "kkiosk:7617800002399": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Vuse Go 1000 Apple Sour 20mg",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7617800002399",
+    "url": "https://tabak.kkiosk.ch/products/vuse-go-1000-apple-sour-20mg"
+  },
+  "kkiosk:7617800002481": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Vuse Go 1000 Strawberry Kiwi 20mg",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7617800002481",
+    "url": "https://tabak.kkiosk.ch/products/vuse-go-1000-strawberry-kiwi-20mg"
+  },
+  "kkiosk:7617800002665": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Vuse Go 1000 Blue Raspberry 20mg",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7617800002665",
+    "url": "https://tabak.kkiosk.ch/products/vuse-go-1000-blue-raspberry-20mg"
+  },
+  "kkiosk:7617800002726": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Vuse Go 1000 Strawberry Ice 20mg",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7617800002726",
+    "url": "https://tabak.kkiosk.ch/products/vuse-go-1000-strawberry-ice-20mg"
+  },
+  "kkiosk:7617800002764": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Vuse Go 1000 Watermelon Ice 20mg",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7617800002764",
+    "url": "https://tabak.kkiosk.ch/products/vuse-go-1000-watermelon-ice-20mg"
+  },
+  "kkiosk:7617800002771": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Vuse Go 1000 Mango Ice 20mg",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7617800002771",
+    "url": "https://tabak.kkiosk.ch/products/vuse-go-1000-mango-ice-20mg"
+  },
+  "kkiosk:7617800004126": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Vuse Go 1000 Pen Banana Ice 20mg",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7617800004126",
+    "url": "https://tabak.kkiosk.ch/products/vuse-go-1000-pen-banana-ice-20mg"
+  },
+  "kkiosk:7617800004157": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Vuse Go 1000 Pen Classic Peach 20mg",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7617800004157",
+    "url": "https://tabak.kkiosk.ch/products/vuse-go-1000-pen-classic-peach-20mg"
+  },
+  "kkiosk:7617800004188": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Vuse Go 1000 Pen Darkcherry 20mg",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7617800004188",
+    "url": "https://tabak.kkiosk.ch/products/vuse-go-1000-pen-darkcherry-20mg"
+  },
+  "kkiosk:7623900408856": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Veev Now Ultra Watermelon",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7623900408856",
+    "url": "https://tabak.kkiosk.ch/products/veev-now-ultra-watermelon"
+  },
+  "kkiosk:7623900408894": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Veev Now Ultra Sour Apple",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7623900408894",
+    "url": "https://tabak.kkiosk.ch/products/veev-now-ultra-sour-apple"
+  },
+  "kkiosk:7623900408955": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Veev Now Ultra Classic Mint",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7623900408955",
+    "url": "https://tabak.kkiosk.ch/products/veev-now-ultra-classic-mint"
+  },
+  "kkiosk:7623900408962": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Veev Now Ultra Grape",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7623900408962",
+    "url": "https://tabak.kkiosk.ch/products/veev-now-ultra-grape"
+  },
+  "kkiosk:7623900409068": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Veev Now Ultra Strawberry",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7623900409068",
+    "url": "https://tabak.kkiosk.ch/products/veev-now-ultra-strawberry"
+  },
+  "kkiosk:7623900409167": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Veev Now Ultra Blue Raspberry",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7623900409167",
+    "url": "https://tabak.kkiosk.ch/products/veev-now-ultra-blue-raspberry"
+  },
+  "kkiosk:7623900409174": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Veev Now Ultra Gold Tobacco",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7623900409174",
+    "url": "https://tabak.kkiosk.ch/products/veev-now-ultra-gold-tobacco"
+  },
+  "kkiosk:7640180163282": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "CBD Vape Watermelon Crush",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7640180163282",
+    "url": "https://tabak.kkiosk.ch/products/cbd-vape-watermelon-crush"
+  },
+  "kkiosk:7640180163299": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "CBD Vape Sour Apple Blast",
+    "price_cents": 1190,
+    "site": "kkiosk",
+    "sku": "7640180163299",
+    "url": "https://tabak.kkiosk.ch/products/cbd-vape-sour-apple-blast"
+  },
+  "kkiosk:7640367174292": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Vale Vape Blueberry",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "7640367174292",
+    "url": "https://tabak.kkiosk.ch/products/vale-vape-blueberry"
+  },
+  "kkiosk:7640367174308": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Vale Vape Watermelon",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "7640367174308",
+    "url": "https://tabak.kkiosk.ch/products/vale-vape-watermelon"
+  },
+  "kkiosk:7640367174315": {
+    "image_hash": null,
+    "image_url": null,
+    "last_seen": 1754859073,
+    "name": "Vale Vape Grape",
+    "price_cents": 790,
+    "site": "kkiosk",
+    "sku": "7640367174315",
+    "url": "https://tabak.kkiosk.ch/products/vale-vape-grape"
+  }
+}
